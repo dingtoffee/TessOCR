@@ -29,7 +29,7 @@ folder. The current supported formats are: (1) PDF (2) TIFF (3) JPEG (4) JPG (5)
 script is only working in Windows. Please use this with caution and install the relevant binaries before starting.
 Tesseract Download Link: https://digi.bib.uni-mannheim.de/tesseract/. Poppler download link:
 https://github.com/oschwartz10612/poppler-windows/releases/tag/v23.11.0-0 and put these files into C:\Program
-Files\Tesseract-OCR esseract.exe and C:\Program Files\poppler\Library\bin respectively.
+Files\Tesseract-OCR\ and C:\Program Files\poppler\Library\bin respectively.
 
 options:
   -h, --help           show this help message and exit
