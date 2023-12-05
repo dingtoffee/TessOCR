@@ -43,3 +43,5 @@ Example to OCR a PDF and a PNG image under Z:\OCR_Folder\Test. (The sample docum
 python Tesseract_OCR.py -d Z:\OCR_Folder\Test
 
  ```
+# References 
+https://www.geeksforgeeks.org/python-reading-contents-of-pdf-using-ocr-optical-character-recognition/
