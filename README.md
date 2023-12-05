@@ -12,7 +12,7 @@ The current supported formats are:
 (8) PMM. 
 The script is only working in Windows. Please use this with caution. If a linux support is required, please contact me for additional feature request. 
 
-#Prerequisite
+# Prerequisite
 (1) Install the relevant binaries: 
 - Download Windows Tesseract: https://digi.bib.uni-mannheim.de/tesseract/ and install this under C:\Program Files\tesseract-ocr (I used tesseract-ocr-w64-setup-5.3.3.20231005.exe for testing.) 
 - Download Windows Poppler: https://github.com/oschwartz10612/poppler-windows/releases/tag/v23.11.0-0. Extract the zip files into C:\Program Files\poppler
@@ -40,6 +40,6 @@ options:
 
 Example to OCR a PDF and a PNG image under Z:\OCR_Folder\Test. (The sample documents are uploaded to the github as well under the folder Test.) All the OCR text output will be saved in Z:\OCR_Folder\Test\Output
 ```
-Z:\OCR_Folder>python Tesseract_OCR.py -d Z:\OCR_Folder\Test
+python Tesseract_OCR.py -d Z:\OCR_Folder\Test
 
  ```
