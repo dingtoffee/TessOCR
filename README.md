@@ -1,5 +1,5 @@
 # TessOCR
-An automated script to OCR images and PDF for DFIR/eDiscovery professional. 
+An automated python script to OCR images and PDF for DF/eDiscovery professional. 
 This is a script that leverage Tesseract OCR to extract words from Images/PDF recursively inside a folder. 
 The current supported formats are: 
 (1) PDF 
